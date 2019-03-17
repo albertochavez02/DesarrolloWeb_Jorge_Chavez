@@ -1,0 +1,9 @@
+Crear video de 45segundos
+
+Habilidades e intereses profesionales
+
+Hola mi nombre es Jorge Chávez, trabajo en Comision Federal de Electricidad 
+Suministro Basico, primero en facturación y cobranza, despues en atención a clientes en la DVMN Zona Azteca. Considera una de mis habilidades el poder encontrar la manera de aplicar la programación en algunos procesos de mi empresa  ya sea a traves de formularios web con conexion a bases de datos mysql para recopilar y compartir información que sea util.
+Me interesa continuar aprendiendo en el area de Desarrollo Web y alguna certificacion relacionada al analisis de informacion como el big data lo cual considero de es de vital importancia para mi empresa. Hasta luego. 
+
+colocar controles
