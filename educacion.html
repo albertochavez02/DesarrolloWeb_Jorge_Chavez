@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JACA Curriculum Vitae</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="widh=device-width,user-scalable=no">
+</head>
+<header>
+  <img src="imagen/logo.svg" alt="Datos Personales" title="Curriculum">
+</header>
+<body>
+	<h1>Curriculum Vitae</h1>
+	<h2>Jorge Alberto Chávez Alonso</h2>
+	<h3>26 de julio de 1979, Ciudad de México</h3>
+	<nav>
+		<ul>
+			<li><a href="index.html">Inicio</a></li>
+			<li><a href="educacion.html">Educación</a></li>
+			<li><a href="experiencia.html">Experiencia</a></li>
+		</ul>
+	</nav>
+	<h2>Educación</h2>
+	<table border="1" cellpadding="10" cellspacing="0">
+		<thead>
+			<tr>
+				<th>Año</th>
+				<th>Institución</th>
+				<th>Lugar</th>
+				<th>¿Culmino?</th>
+			</tr>
+		</thead>
+		<tbody>
+		<tr>
+			<th>2007</th>
+			<th>Universidad Autonóma Matropolitana Iztapalapa</th>
+			<th>Ciudad de México</th>
+			<th>Sí</th>
+		</tr>
+		<tr>
+			<th>2019</th>
+			<th>NextU</th>
+			<th>Cuerso en línea</th>
+			<th>En proceso</th>
+		</tr>
+	</table>
+	<body>
+	<h2>Agregar Estudios</h2>
+  <form autocomplete="on" name="Agregar estudios" class="" action="educacion.html" method="post">
+		<p>
+			<label for="anio">Año: </label>
+			<br>
+			<input type="number" name="anio" min="1980" placeholder="Ej: 2019" required>
+		</p>
+    <p>
+    <label for="institucion"></label>
+    	<input name="institucion" type="text" placeholder="Ingrese su Institución" size="50">
+    </p>
+		<p>
+			<label for="lugar"></label>
+			<input name="lugar" type="text" placeholder="Ingrese el lugar" size="50" autofocus required>
+		</p>
+    <input type="submit" name="enviar" value="Enviar">
+  </form>
+</body>
+</br>
+<footer>alberto.chavez01@hotmail.com, 5543627345,</br>
+	      Valle de Arno s/n Valle de Aragón
+        Ecatepec de Morelos, Estado de México.</footer>
+</html>
